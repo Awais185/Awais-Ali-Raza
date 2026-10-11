@@ -1,0 +1,30 @@
+export const skillFlow = {
+  index: "04.5 // ARCHITECTURE RUNTIME",
+  headline: "FULL STACK TECHNOLOGIES — ANIMATED SKILL LOOP",
+  subtitle:
+    "Continuous runtime delivery loop with synchronized multi-tier technology orbits.",
+  outer: [
+    "React.js",
+    "Next.js",
+    "Node.js",
+    "Django",
+    "Django REST Framework",
+    "FastAPI",
+    "Python",
+    "TypeScript",
+    "Docker",
+    "Microservices",
+    "REST APIs",
+  ],
+  inner: [
+    "Tailwind CSS",
+    "PostgreSQL",
+    "MySQL",
+    "WebSockets",
+    "Flutter",
+    "Git",
+    "GitHub",
+    "GraphQL",
+    "HTML/CSS",
+  ],
+};
