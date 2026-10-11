@@ -9,8 +9,6 @@ import Experience from "@/components/sections/Experience";
 import Education from "@/components/sections/Education";
 import Research from "@/components/sections/Research";
 import Contact from "@/components/sections/Contact";
-import { GeistSans } from "geist/font/sans";
-import { GeistMono } from "geist/font/mono";
 
 export default function App() {
   return (
