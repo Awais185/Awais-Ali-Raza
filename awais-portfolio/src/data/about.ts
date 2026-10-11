@@ -4,7 +4,7 @@ export const about = {
   headline: "I build AI that ships.",
   paragraphs: [
     "I'm Awais Ali Raza, an AI Engineer and Full Stack Developer based in Lahore, currently completing my BSc in Information Engineering and Technology at Superior University. I started with web development (Django,FastAPi, REST APIs, React) and kept going deeper into machine learning, deep learning, NLP and LLMs.",
-    "Most of what I know, I taught myself: building projects, reading documentation and papers, fine-tuning models and shipping them inside real applications. That curiosity took me from websites to FastAPI microservices, a fine-tuned Mistral LLM, and RAG- and MCP-powered assistants.",
+    "Most of what I know, I taught myself: building projects, reading documentation and papers, fine-tuning models and shipping them inside real applications. That curiosity took me from websites to FastAPI microservices, a fine-tuned LLM, and RAG- and MCP-powered assistants.",
   ],
   footnote:
     "Currently exploring: RAG pipelines, MCP, LLM applications, and getting models into production.",
