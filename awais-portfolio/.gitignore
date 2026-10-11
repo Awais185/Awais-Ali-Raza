@@ -5,3 +5,15 @@ dist-ssr
 .DS_Store
 .env
 .env.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
