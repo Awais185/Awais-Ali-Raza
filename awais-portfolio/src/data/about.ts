@@ -28,7 +28,7 @@ export const about = {
       tags: ["LLM", "Mistral", "Fine-Tuning", "QLoRA"],
     },
     {
-      name: "AI Career Coach",
+      name: "AI JOb Advisor",
       icon: "smart_toy",
       body: "Conversational career advising agent integrating RAG and Model Context Protocol (MCP) for tool execution and dynamic data matching.",
       tags: ["RAG", "MCP", "LLM", "AI Assistant"],

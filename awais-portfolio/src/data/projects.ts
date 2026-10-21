@@ -38,13 +38,13 @@ export const projects = {
     items: [
       {
         category: "MICROSERVICES",
-        title: "ConnectJob",
-        body: "Job connection platform built on independent FastAPI microservices with JWT security, job-matching algorithms, and automated API specifications.",
+        title: "GetJobHere",
+        body: "Job GetJobHere platform built on independent FastAPI microservices with JWT security, job-matching algorithms, and automated API specifications.",
         tags: ["FastAPI", "Docker", "PostgreSQL"],
       },
       {
         category: "E-COMMERCE BACKEND",
-        title: "Mega Market",
+        title: "E Commerece Platform",
         body: "High-scale marketplace backend orchestrating FastAPI inventory management, payment gateway hooks, and order fulfillment services.",
         tags: ["Microservices", "FastAPI", "Redis", "PostgreSQL"],
       },
